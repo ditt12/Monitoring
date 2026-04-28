@@ -97,8 +97,6 @@ def send_start():
 • /ping → cek status cepat
 • /check → status + screenshot
 • /screenshot → hanya screenshot
-
-⏱ Auto update tiap 1 jam aktif
 """
     send_text(msg)
 
