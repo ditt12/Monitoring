@@ -98,7 +98,6 @@ def send_start():
 • /check → status + screenshot
 • /screenshot → hanya screenshot
 
-⏱ Auto update tiap 1 jam aktif
 """
     send_text(msg)
 
