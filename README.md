@@ -37,11 +37,17 @@ uptime script - Mengirim screenshot layar (via root)
 ## 📦 Install di Termux
 
 ```pkg update && pkg upgrade```
+
 ```pkg install tsu```
+
 ```pkg install git```
+
 ```pkg install python```
+
 ```git clone https://github.com/ditt12/monitoring```
+
 ```pip install -r requirements.txt```
+
 ```python monitoring.py```
 
 (Optional) termux-wake-lock
