@@ -38,6 +38,8 @@ uptime script - Mengirim screenshot layar (via root)
 
 ```pkg update && pkg upgrade```
 
+```pkg install termux-api```
+
 ```pkg install tsu```
 
 ```pkg install git```
