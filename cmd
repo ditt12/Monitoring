@@ -1,3 +1,4 @@
+start - starting bot
 ping - for checking status
 check - status + screenshoot 
-screenshoot - only screenshoot
+screenshot - only screenshoot
