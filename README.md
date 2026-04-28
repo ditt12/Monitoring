@@ -48,9 +48,11 @@ uptime script - Mengirim screenshot layar (via root)
 
 ```git clone https://github.com/ditt12/monitoring```
 
+```cd monitoring```
+
 ```pip install -r requirements.txt```
 
-```python monitoring.py```
+```python monitoringinterval.py OR python monitoringcmd.py```
 
 (Optional) termux-wake-lock
 
