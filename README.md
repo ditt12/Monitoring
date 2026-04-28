@@ -28,9 +28,9 @@ uptime script - Mengirim screenshot layar (via root)
 
 5.  Ambil CHAT_ID:
 
-    -   Kirim pesan ke bot
-    -   Buka: https://api.telegram.org/bot`<TOKEN>`{=html}/getUpdates
-    -   Ambil chat id
+    -   Kirim pesan ke bot @MissRose_bot
+    -   Kirim pesan ke bot Rose /info
+    -   Salin ID
 
 ------------------------------------------------------------------------
 
