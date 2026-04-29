@@ -52,7 +52,7 @@ uptime script - Mengirim screenshot layar (via root)
 
 ```pip install -r requirements.txt```
 
-```python monitoringinterval.py OR python monitoringcmd.py```
+```python monitoring.py```
 
 (Optional) termux-wake-lock
 
@@ -74,7 +74,7 @@ su -c "/system/bin/screencap -p /sdcard/test.png"
 
 ## ▶️ Menjalankan Script
 
-python main.py
+python monitoring.ph
 
 ------------------------------------------------------------------------
 
