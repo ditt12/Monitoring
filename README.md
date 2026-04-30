@@ -46,6 +46,8 @@ uptime script - Mengirim screenshot layar (via root)
 
 ```pkg install python```
 
+```pkg install ffmpeg```
+
 ```git clone https://github.com/ditt12/monitoring```
 
 ```cd monitoring```
